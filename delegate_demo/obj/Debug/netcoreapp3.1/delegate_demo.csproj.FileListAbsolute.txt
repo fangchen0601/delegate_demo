@@ -1,0 +1,11 @@
+C:\Users\fanche\git\delegate_demo\delegate_demo\bin\Debug\netcoreapp3.1\delegate_demo.exe
+C:\Users\fanche\git\delegate_demo\delegate_demo\bin\Debug\netcoreapp3.1\delegate_demo.deps.json
+C:\Users\fanche\git\delegate_demo\delegate_demo\bin\Debug\netcoreapp3.1\delegate_demo.runtimeconfig.json
+C:\Users\fanche\git\delegate_demo\delegate_demo\bin\Debug\netcoreapp3.1\delegate_demo.runtimeconfig.dev.json
+C:\Users\fanche\git\delegate_demo\delegate_demo\bin\Debug\netcoreapp3.1\delegate_demo.dll
+C:\Users\fanche\git\delegate_demo\delegate_demo\bin\Debug\netcoreapp3.1\delegate_demo.pdb
+C:\Users\fanche\git\delegate_demo\delegate_demo\obj\Debug\netcoreapp3.1\delegate_demo.csprojAssemblyReference.cache
+C:\Users\fanche\git\delegate_demo\delegate_demo\obj\Debug\netcoreapp3.1\delegate_demo.AssemblyInfoInputs.cache
+C:\Users\fanche\git\delegate_demo\delegate_demo\obj\Debug\netcoreapp3.1\delegate_demo.AssemblyInfo.cs
+C:\Users\fanche\git\delegate_demo\delegate_demo\obj\Debug\netcoreapp3.1\delegate_demo.dll
+C:\Users\fanche\git\delegate_demo\delegate_demo\obj\Debug\netcoreapp3.1\delegate_demo.pdb
